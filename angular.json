@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PipeTraining"
+    }
+  },
+  "defaultProject": "PipeTraining",
+  "cli": {
+    "analytics": false
+  }
 }
